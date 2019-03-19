@@ -1,7 +1,8 @@
 ---
 title: I like nonsense, it wakes up the brain cells
 category: "testimonies"
-cover: photo-1465070845512-2b2dbdc6df66.jpg
+# cover: photo-1465070845512-2b2dbdc6df66.jpg
+cover: https://m.media-amazon.com/images/M/MV5BODMzMjlmZTYtOGU2NS00NGM2LWI4ZDItNzQzYTYwNDA2ZmU4XkEyXkFqcGdeQXRzdGFzaWVr._V1_CR21,0,939,528_AL_UY268_CR10,0,477,268_AL_.jpg
 author: greg lobinski
 ---
 
